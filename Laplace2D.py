@@ -1,4 +1,4 @@
-
+__all__ = ['Laplace2D']
 import numpy as np
 import numpy.linalg as alg
 from mesh2D import *
